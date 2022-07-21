@@ -1,5 +1,5 @@
 # Instrument detector
-An age detector of a person in a photo
+An detector of instruments in a photo
 
 ## IMAGE RECOGNISER FOR THE DETECTION OF AN INSTRUMENT
 By Galo Pérez Gallego
