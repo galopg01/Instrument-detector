@@ -12,7 +12,7 @@ The neural network that is developed in the notebook "instruments_detector.pynb"
 
  There are 30 classes (30 different instruments) that the model can detect: 'acordian', 'alphorn', 'bagpipes', 'banjo', 'bongo drum', 'casaba', 'castanets', 'clarinet', 'clavichord', 'concertina', 'Didgeridoo', 'drums', 'dulcimer', 'flute', 'guiro', 'guitar', 'harmonica', 'harp', 'marakas', 'ocarina', 'piano', 'saxaphone', 'sitar', 'steel drum', 'Tambourine', 'trombone', 'trumpet', 'tuba', 'violin', 'Xylophone'.
  
- I reached over 98% accuracy using a pre-trained model named ResNet50 and some techniques in order to improve it and avoid overfitting:
+ I reached over 96% accuracy using a pre-trained model named ResNet50 and some techniques in order to improve it and avoid overfitting:
  
  - **Dropout**: Dropout is a technique that drops neurons from the neural network or ‘ignores’ them during training, in other words, different neurons are removed from the network on a temporary basis. 
  
